@@ -1,3 +1,1 @@
-"Hello,git!" 
-"В•в™† feature-hello" 
-"В•в™† feature-hello" 
+Ёто строка из ветки conflict-demo
